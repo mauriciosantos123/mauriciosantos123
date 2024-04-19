@@ -1,7 +1,6 @@
 - 👋 Ola, me chamo Mauricio dos Santos Vieira 
-- 👀 Estou interessado em aprender o máximo de conteúdos possíveis para ser um bom programador, claro que se surgi uma oportunidade de emprego e sempre bem vinda também ...
-- 🌱 Atualmente estou aprendendo e trabalhando com PHP com códigos em laravel e codeigniter mas estou aberto a outras linguagens, estudo Java também em meu tempo livre . 
-- 💞️ Estou em busca de reconhecimento e primeiras oportunidades  no mercado e aprender tudo para que seja um ótimo programador. 
+- 👀 Desenvolvedor .NET com experiência sólida em C#, SQL, Azure, React, CSS e jQuery. Habilidades robustas em programação back-end e front-end, capacitando a criação de soluções inovadoras. Experiente na implementação de serviços em nuvem através do Azure. Busco constantemente desafios que impulsionem meu crescimento profissional. Inglês intermediário com capacidade de compreensão e comunicação escrita. Apaixonado por tecnologia, estou pronto para contribuir em projetos inovadores e colaborativos., claro que se surgi uma oportunidade de emprego e sempre bem vinda também ...
+
 - 📫 Estou a disposição em  : mauriciusantos123@hotmail.com  e meu telefone é (11) 98539-4571
 
 <!---
